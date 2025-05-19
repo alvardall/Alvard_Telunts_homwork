@@ -1,0 +1,10 @@
+ This repository is created by Alvard Telunts to practice using Git and GitHub.  
+It will contain sample files
+
+ Folder Contents demo_project.py
+
+
+
+
+
+
